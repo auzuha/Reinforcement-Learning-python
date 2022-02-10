@@ -4,7 +4,7 @@
 
 How to use:
   type <b>python snake_reinforcement_learning test</b> on terminal if you want to see pre-trained agent,
-  <b>python snake_reinforcement_learning</b> if you want to see it trained
+  type <b>python snake_reinforcement_learning</b> if you want to see it trained
   packages used are
     pygame
     random
