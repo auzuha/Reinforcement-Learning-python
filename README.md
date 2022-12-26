@@ -7,4 +7,8 @@ RL implementations in python
 Playing snake using Bellman Equation.
 <img src="snake_q-learning\img\snake.gif" alt="GIF of snake game played by an agent.">
 
+
+2.
+<i><u>Q Learning Visualisation</u></i>
+
 </pre>
